@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Fer VAT and Trans", "Fer VAT and Trans\Fer VAT and Trans.rptproj", "{E81326B1-9F2E-49E1-B786-C5A29433AE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81326B1-9F2E-49E1-B786-C5A29433AE33}.Debug|Default.ActiveCfg = Debug
+		{E81326B1-9F2E-49E1-B786-C5A29433AE33}.Debug|Default.Build.0 = Debug
+		{E81326B1-9F2E-49E1-B786-C5A29433AE33}.Debug|Default.Deploy.0 = Debug
+		{E81326B1-9F2E-49E1-B786-C5A29433AE33}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E81326B1-9F2E-49E1-B786-C5A29433AE33}.DebugLocal|Default.Build.0 = DebugLocal
+		{E81326B1-9F2E-49E1-B786-C5A29433AE33}.Release|Default.ActiveCfg = Release
+		{E81326B1-9F2E-49E1-B786-C5A29433AE33}.Release|Default.Build.0 = Release
+		{E81326B1-9F2E-49E1-B786-C5A29433AE33}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BEDD81F-4454-44A2-BE10-6CC7AF85B2CB}
+	EndGlobalSection
+EndGlobal
